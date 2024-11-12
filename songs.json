@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Bohemian Rhapsody",
+        "artist": "Queen",
+        "year": 1975,
+        "genre": "Rock",
+        "duration": "5:55"
+    },
+    {
+        "id": 2,
+        "name": "Billie Jean",
+        "artist": "Michael Jackson",
+        "year": 1983,
+        "genre": "Pop",
+        "duration": "4:54"
+    },
+    {
+        "id": 3,
+        "name": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "year": 1987,
+        "genre": "Rock",
+        "duration": "5:56"
+    }
+]
